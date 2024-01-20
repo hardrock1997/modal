@@ -1,0 +1,9 @@
+.container {
+    margin: auto;
+    width: 500px;
+    border:1px solid white;
+    text-align: center;
+    background-color: aqua;
+    color: blueviolet;
+    border-radius: 5px;
+}
